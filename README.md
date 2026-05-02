@@ -1,5 +1,5 @@
 # The-Ultimate-Guide-to-Vim
-Everything you need to go from confused to confident in Vim.
+Everything you need to go from confused to confident in Vim. :scroll:
 
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vim-icon.png" alt="vim icon" style="width:300px">
 
